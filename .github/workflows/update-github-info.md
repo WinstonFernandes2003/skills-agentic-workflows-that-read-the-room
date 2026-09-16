@@ -34,7 +34,7 @@ Keep the repository's GitHub information current for Mona to review.
 5. Update `site/content/github-info.md` with accurate, relevant information
    based on the notes and fetched GitHub sources. Preserve the existing format
    and avoid unrelated changes.
-6. Use the `create-pull-request` safe output to propose the update in a pull
-   request for Mona to review. Do not write directly to `main`.
+6. Use the `create-pull-request` safe output to open a pull request for Mona to
+  review. Do not write directly to `main`.
 
 Do not compile this workflow or create a generated `.lock.yml` file.
